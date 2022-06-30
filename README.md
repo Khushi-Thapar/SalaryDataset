@@ -1,0 +1,1 @@
+Predict the salary of employers using Multiple regression analysis to analyze the relationship between a single dependent variable and several independent variables. Detected Multicollinearity between two independent variables- age and years of experience and fixed it.
